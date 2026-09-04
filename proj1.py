@@ -1,5 +1,3 @@
-"""Naive Bayes Classifier for implementing whether a tumor is malignant or benign based on the features of the tumor"""
-
 __Course__ = "CSE 574 - Intro To Machine Learning"
 __author__ = "Viral Koshti"
 __email__ = "viraljag@buffalo.edu"
