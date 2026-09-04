@@ -4,7 +4,6 @@ __email__ = "viraljag@buffalo.edu"
 __UBPersonNumber__ = "50761354"
 
 import csv
-import math
 import random
 from Helpers import SimpleGaussianNaiveBayes
 
